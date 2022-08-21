@@ -7,10 +7,11 @@
 - Software development enthusiast!
 - Automation enthusiast!
 - Computer enthusiast :computer:!
+- Crypto enthusiast <img src="https://cdn3.emoji.gg/emojis/4586-bitcoin-logo.png" width="16x" height="16px" alt="Bitcoin_Logo">!
 - I life coffee:coffee:
 - I life video games:video_game:
 - I'm a certified mechatronics technician:wrench:
-- Crypto enthusiast <img src="https://cdn3.emoji.gg/emojis/4586-bitcoin-logo.png" width="16x" height="16px" alt="Bitcoin_Logo">!
+
 
 I'm currently running this insanity of a project and all it's child projects by myself: https://waspscripts.com/
 
