@@ -24,14 +24,14 @@ I'm currently running this insanity of a project and all it's child projects by 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 </p>
-<br>
+<br><br>
 <p>
 <img align="left" alt="Svelte3" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
 <img align="left" alt="Sass" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 <img align="left" alt="TailwindCSS" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="Discord.JS" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" />
 </p>
-<br>
+<br><br>
 <p>
 <img align="left" alt="Windows" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
@@ -42,7 +42,7 @@ I'm currently running this insanity of a project and all it's child projects by 
 <img align="left" alt="DenoJS" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" /> 
 <img align="left" alt="Docker" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" /> 
 </p>
-<br>
+<br><br>
 <p>
 <img align="left" alt="Git" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" /> 
 <img align="left" alt="GitHub" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /> 
@@ -50,7 +50,7 @@ I'm currently running this insanity of a project and all it's child projects by 
 <img align="left" alt="illustrator" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" />
 <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 </p>
-<br>
+<br><br>
 <p>
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
